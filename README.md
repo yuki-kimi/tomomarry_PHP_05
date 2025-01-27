@@ -19,7 +19,7 @@ https://gs-deploy-0709.sakura.ne.jp/20250128_deploy/index.php
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
-- ID: suzu@gmail.com
+- ID: satomi@gmail.com
 - PW: 123
 
 ## ⑤工夫した点・こだわった点
